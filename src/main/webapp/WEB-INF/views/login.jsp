@@ -41,13 +41,14 @@
     <meta name="author" content="">
     <title>!ExclamationMark</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <meta charset='utf-8'>
 </head>
 <body class="text-center">
 <div class="container">
 	<div class="row">
 		<div class="form_bg">
 	    	<form method="POST" action="/login" class="form-signin">
-				<h1 class="h3 mb-3 font-weight-normal">Please sign in</h1>   
+				<h1 class="h3 mb-3 font-weight-normal">&#x1F44B Please sign in</h1><br>   
 				<div class="form-group">         
 					<input name="username" type="text" class="form-control" placeholder="Username"autofocus="true"/>
 				</div>
